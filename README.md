@@ -1,1 +1,1 @@
-This repo show difference: [JDBC-core](), [Spring JDBC](), [Spring JPA](), [Hibernate]().
+This repo show difference: [JDBC-core](./jdbc-core/README.md), [Spring JDBC](), [Spring JPA](), [Hibernate]().
